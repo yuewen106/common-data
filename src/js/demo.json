@@ -1,4 +1,4 @@
-rollback([
+[
     {
         "id": 1024,
         "orgCode": "D0103160101",
@@ -47,4 +47,4 @@ rollback([
         "parentOrgCode": "D01042514",
         "rootOrgCode": "D01"
     }
-])
+]
