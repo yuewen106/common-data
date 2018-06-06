@@ -1,4 +1,4 @@
-[
+jsoncallback([
     {
         "id": 1024,
         "orgCode": "D0103160101",
@@ -47,4 +47,4 @@
         "parentOrgCode": "D01042514",
         "rootOrgCode": "D01"
     }
-]
+])
